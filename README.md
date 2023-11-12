@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/marshmeowllo/CEDT.git Project114
+git clone https://github.com/marshmeowllo/Project114.git
 cd Project114
 ```
 
